@@ -13,7 +13,7 @@ int main()
 	int count = 0;
 	while( card_name[0] != 'x' ){
 		puts("Enter the card_name: ");
-		scanf("%1s", card_name);	
+		scanf("%2s", card_name);	
 		int val = 0;			
 		switch(card_name[0]){
 			case 'K':
