@@ -6,5 +6,4 @@ data=[
 {latitude: 42.512001, longitude: -71.125999, info: 'Speed = 12'},
 {latitude: 42.341000, longitude: -71.123001, info: 'Speed = 11'},
 {latitude: 42.200001, longitude: -71.431999, info: 'Speed = 21'},
-{latitude: 42.312000, longitude: -71.753998, info: 'Speed = 11'}
-]
+{latitude: 42.312000, longitude: -71.753998, info: 'Speed = 11'},
