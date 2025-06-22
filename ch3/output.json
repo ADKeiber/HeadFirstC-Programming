@@ -1,9 +1,4 @@
 data=[
-{latitude: 42.362999, longitude: -71.167000, info: 'Speed = 12'},
-{latitude: 42.633999, longitude: -71.199997, info: 'Speed = 21'},
-{latitude: 42.324001, longitude: -71.320999, info: 'Speed = 15'},
-{latitude: 42.123001, longitude: -71.459999, info: 'Speed = 16'},
-{latitude: 42.512001, longitude: -71.125999, info: 'Speed = 12'},
-{latitude: 42.341000, longitude: -71.123001, info: 'Speed = 11'},
-{latitude: 42.200001, longitude: -71.431999, info: 'Speed = 21'},
-{latitude: 42.312000, longitude: -71.753998, info: 'Speed = 11'},
+{latitude: 31.363001, longitude: -71.167000, info: 'Speed = 12'},
+{latitude: 29.200001, longitude: -71.431999, info: 'Speed = 21'}
+]
