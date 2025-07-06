@@ -1,6 +1,6 @@
 /*
 * Gets encrptys a message
-* Taken from 'Head First C' written by David and Dawn Griffiths
+* Taken from 'Head First C' written by David and Dawn Griffiths (test)
 */
 #include "encrypt.h"
 
