@@ -3,8 +3,8 @@
  * Taken from 'Head First C'
  */
 #include <stdio.h>
-#include "encrypt.h"
-#include "checksum.h"
+#include "C:\MinGW\include\encrypt.h"
+#include "C:\MinGW\include\checksum.h"
 
 int main() {
     char s[] = "Speak friend and enter";
