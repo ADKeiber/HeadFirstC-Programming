@@ -3,7 +3,7 @@
  * Taken from 'Head first C'
  */
 #include <stdio.h>
-#include "hfcal.h"
+#include <hfcal.h>
 
 int main() {
     display_calories(115.2, 11/3, 0.79);
